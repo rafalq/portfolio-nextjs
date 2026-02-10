@@ -20,19 +20,20 @@ I focus on writing **clean, scalable code**, creating **intuitive user interface
 
 ## ✨ What You’ll Find Here
 
-- 📌 Real-world projects with practical use cases  
-- ⚡ Performance-focused and fully responsive UI  
-- 🧩 Clean architecture and reusable components  
-- 🔍 Strong attention to UX and developer experience  
+- 📌 Real-world projects with practical use cases
+- ⚡ Performance-focused and fully responsive UI
+- 🧩 Clean architecture and reusable components
+- 🔍 Strong attention to UX and developer experience
 
 ---
 
 ## 🎯 Purpose
 
 This portfolio is designed to give **recruiters and hiring managers** a clear overview of:
-- my technical skill set  
-- my coding style and structure  
-- my approach to problem-solving and UI design  
+
+- my technical skill set
+- my coding style and structure
+- my approach to problem-solving and UI design
 
 ---
 
