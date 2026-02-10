@@ -13,7 +13,7 @@ I focus on writing **clean, scalable code**, creating **intuitive user interface
 - **Next.js** (App Router)
 - **React**
 - **TypeScript**
-- **Tailwind CSS**
+- **SASS**
 - Modern frontend patterns & best practices
 
 ---
