@@ -1,0 +1,33 @@
+@use 'variables' as vars;
+@use 'reset';
+
+:root {
+  --color-bg: #{vars.$bg-light};
+  --color-surface: #{vars.$surface-light};
+  --color-text-primary: #{vars.$text-primary-light};
+  --color-text-secondary: #{vars.$text-secondary-light};
+  --color-accent: #{vars.$accent-light};
+  --color-accent-hover: #{vars.$accent-hover-light};
+  --color-border: #{vars.$border-light};
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --color-bg: #{vars.$bg-dark};
+    --color-surface: #{vars.$surface-dark};
+    --color-text-primary: #{vars.$text-primary-dark};
+    --color-text-secondary: #{vars.$text-secondary-dark};
+    --color-accent: #{vars.$accent-dark};
+    --color-accent-hover: #{vars.$accent-hover-dark};
+    --color-border: #{vars.$border-dark};
+  }
+}
+
+body {
+  color: var(--color-text-primary);
+  background: var(--color-bg);
+  font-family: var(--font-geist-sans), sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
